@@ -1,5 +1,5 @@
 imports:
-- path: https://raw.githubusercontent.com/suvenkat79/google/master/cloud_router.jinja
+- path: https://raw.githubusercontent.com/cpg-qe/GDMTemplateCloudRouterURLIT/main/cloud_router.jinja
 
 resources:
 - name: my-cloud-router
