@@ -1,0 +1,11 @@
+imports:
+- path: https://raw.githubusercontent.com/suvenkat79/google/master/cloud_router.jinja
+
+resources:
+- name: my-cloud-router
+  type: https://raw.githubusercontent.com/suvenkat79/google/master/cloud_router.jinja
+  properties:
+    region: us-west1
+    peerAddress: 34.168.73.193
+    asn: 65001
+    sharedSecret: LosPajarosLolos
